@@ -1,0 +1,6 @@
+url,username,password,name,extra
+https://site1.com,login1,password1,sitename1,
+https://site2.com,,password2,sitename2,
+https://site3.com,login3,,sitename3,
+https://site4.com,,,sitename4,
+https://site5.com,,,,

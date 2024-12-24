@@ -1,0 +1,4 @@
+*.csv
+
+# exclude reference example csv
+!reference_example.csv
