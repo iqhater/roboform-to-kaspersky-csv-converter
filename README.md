@@ -22,7 +22,7 @@ git clone https://github.com/iqhater/roboform-to-kaspersky-csv-converter.git
 // main.go file
 const (
     INPUT_FILENAME  = "your_input_filename.csv"
-    OUTPUT_FILENAME = "your_output_filename.csv"
+    OUTPUT_FILENAME = "your_output_filename.csv" // can be any name
 )
 ```
 
